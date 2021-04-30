@@ -2,6 +2,7 @@
 A small project with implementation of frequent pattern mining and clustering algorithms\
 
 Model Construction: Frequent Pattern Mining & Clustering Analysis\
+
 a) Do the data preprocessing steps, if required.\
 
 b) Use your dataset to construct 3 frequent pattern mining models as follows:\
